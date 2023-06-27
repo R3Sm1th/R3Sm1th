@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Russell</h1>
 <h3 align="center">Full Stack Web Developer Software Engineer</h3>
-
-- 🔭 I’m currently working on my project **Renteaze**
-
-- 📫 How to reach me **russellsmith6@gmail.com**
+<p>I am busy working away on new projects but feel free to get in touch and would love to hear from you. You can reach me on russellsmith6@gmail.com. Alternatively, my social details can be found below. </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
