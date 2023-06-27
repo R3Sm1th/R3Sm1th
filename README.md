@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Russell</h1>
 <h3 align="center">Full Stack Web Developer Software Engineer</h3>
-<p>I am busy working away on new projects but feel free to get in touch and would love to hear from you. You can reach me on russellsmith6@gmail.com. Alternatively, my social details can be found below. </p>
+<p>I am busy working away on some new projects. Feel free to get in touch, I would love to hear from you.</p>
+<p>You can reach me on russellsmith6@gmail.com or alternatively, my social details can be found below. </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/russell-hallowes-smith/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/russell-hallowes-smith/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/resm1th6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/resm1th6/" height="30" width="40" /></a>
